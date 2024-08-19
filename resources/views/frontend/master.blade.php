@@ -55,14 +55,7 @@
 <body class>
     <div id="wrapper">
 
-        <div id="preloader">
-            <div id="spinner">
-                <i class="flaticon-charity-shelter font-60 text-theme-colored floating"></i>
-                <h5 class="line-height-50 font-18">Loading...</h5>
-            </div>
-            <div id="disable-preloader" class="btn btn-default btn-sm">Disable Preloader</div>
-        </div>
-
+    
 
         @include('frontend.menu')
 
@@ -82,9 +75,9 @@
                         <div class="container pt-200 pb-200">
                             <div class="row">
                                 <div class="col-md-12 text-center">
-                                    <h1 class="text-white text-uppercase font-60">We are <span class="text-theme-colored">Landscaping</span></h1>
-                                    <h4 class="text-white font-weight-400">We always try to Provide Our best Services for <br> making your lawn and garden more beautiful</h4>
-                                    <a class="btn btn-colored btn-theme-colored btn-flat smooth-scroll-to-target" href="#donate-now">Send Mail</a>
+                                    <h1 class="text-white text-uppercase font-60"> <span class="text-theme-colored"></span></h1>
+                                    <h4 class="text-white font-weight-400"> <br> </h4>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -97,10 +90,10 @@
                     <div class="call-to-action sm-text-center">
                         <div class="row">
                             <div class="col-md-9">
-                                <h3 class="mt-5 text-white">Best eCharity - Nonprofit, Crowdfunding & Charity HTML5 Template</h3>
+                                <h3 class="mt-5 text-white">NUSRAT TRUST - Working for Special Children  </h3>
                             </div>
                             <div class="col-md-3 text-right flip sm-text-center">
-                                <a href="#" class="btn btn-default btn-circled btn-lg mt-5">Purchase Now<i class="fa fa-angle-double-right font-16 ml-10"></i></a>
+                                <a href="#" class="btn btn-default btn-circled btn-lg mt-5">Donation Now<i class="fa fa-angle-double-right font-16 ml-10"></i></a>
                             </div>
                         </div>
                     </div>
@@ -179,7 +172,7 @@
                             <div class="item">
                                 <div class="causes bg-lighter box-hover-effect effect1 maxwidth500 mb-sm-30">
                                     <div class="thumb">
-                                        <img class="img-fullwidth" alt src="images/project/w1.jpg">
+                                        <img class="img-fullwidth" alt src="images/project/w9.jpg">
                                     </div>
                                     <div class="progress-item mt-0">
                                         <div class="progress mb-0">
@@ -202,7 +195,7 @@
                             <div class="item">
                                 <div class="causes bg-lighter box-hover-effect effect1 maxwidth500 mb-sm-30">
                                     <div class="thumb">
-                                        <img class="img-fullwidth" alt src="images/project/w2.jpg">
+                                        <img class="img-fullwidth" alt src="images/project/w6.jpg">
                                     </div>
                                     <div class="progress-item mt-0">
                                         <div class="progress mb-0">
@@ -225,7 +218,7 @@
                             <div class="item">
                                 <div class="causes bg-lighter box-hover-effect effect1 maxwidth500 mb-sm-30">
                                     <div class="thumb">
-                                        <img class="img-fullwidth" alt src="images/project/w3.jpg">
+                                        <img class="img-fullwidth" alt src="images/project/w7.jpg">
                                     </div>
                                     <div class="progress-item mt-0">
                                         <div class="progress mb-0">
@@ -274,7 +267,7 @@
                             <div class="item">
                                 <div class="causes bg-lighter box-hover-effect effect1 maxwidth500 mb-sm-30">
                                     <div class="thumb">
-                                        <img class="img-fullwidth" alt src="images/project/w4.jpg">
+                                        <img class="img-fullwidth" alt src="images/project/w5.jpg">
                                     </div>
                                     <div class="progress-item mt-0">
                                         <div class="progress mb-0">
@@ -725,7 +718,7 @@
                                         <div class="icons-holder">
                                             <div class="icons-holder-inner">
                                                 <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                                                    <a data-lightbox="image" href="images/portfolio/p5.jpg"><i class="fa fa-plus"></i></a>
+                                                    <a data-lightbox="image" href="images/portfolio/p9.jpg"><i class="fa fa-plus"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -825,8 +818,8 @@
                                         <div class="team-member maxwidth400">
                                             <div class="thumb"><img alt src="images/team/1.jpg" class="img-fullwidth"></div>
                                             <div class="info p-20 p-sm-10 ">
-                                                <h4>Jone doe <small>-Student</small></h4>
-                                                <p>Lorem ipsum dolor sit amet, conse ctetur adipisi cing elit.</p>
+                                                <h4>Mufti Muhammad Mohiuddin </h4>
+                                                <p>Founder & Chairman</p>
                                                 <ul class="styled-icons icon-theme-colored icon-circled icon-dark icon-sm mt-15 mb-0">
                                                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -840,7 +833,7 @@
                                         <div class="team-member maxwidth400">
                                             <div class="thumb"><img alt src="images/team/2.jpg" class="img-fullwidth"></div>
                                             <div class="info p-20 p-sm-10 ">
-                                                <h4>Jone doe <small>-Student</small></h4>
+                                                <h4>Abu Katada Mohiuddin</h4>
                                                 <p>Lorem ipsum dolor sit amet, conse ctetur adipisi cing elit.</p>
                                                 <ul class="styled-icons icon-theme-colored icon-circled icon-dark icon-sm mt-15 mb-0">
                                                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -855,8 +848,8 @@
                                         <div class="team-member maxwidth400">
                                             <div class="thumb"><img alt src="images/team/3.jpg" class="img-fullwidth"></div>
                                             <div class="info p-20 p-sm-10 ">
-                                                <h4>Jone doe <small>-Businessman</small></h4>
-                                                <p>Lorem ipsum dolor sit amet, conse ctetur adipisi cing elit.</p>
+                                                <h4>Abu Talha Mohiuddin</h4>
+                                                <p>Finance Secretary</p>
                                                 <ul class="styled-icons icon-theme-colored icon-circled icon-dark icon-sm mt-15 mb-0">
                                                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -866,27 +859,13 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="item bg-lighter">
-                                        <div class="team-member maxwidth400">
-                                            <div class="thumb"><img alt src="images/team/4.jpg" class="img-fullwidth mb-0"></div>
-                                            <div class="info p-20 p-sm-10 ">
-                                                <h4>Jone doe <small>-Businessman</small></h4>
-                                                <p>Lorem ipsum dolor sit amet, conse ctetur adipisi cing elit.</p>
-                                                <ul class="styled-icons icon-theme-colored icon-circled icon-dark icon-sm mt-15 mb-0">
-                                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
+                                  
                                     <div class="item bg-lighter">
                                         <div class="team-member maxwidth400">
                                             <div class="thumb"><img alt src="images/team/2.jpg" class="img-fullwidth"></div>
                                             <div class="info p-20 p-sm-10 ">
-                                                <h4>Jone doe <small>-Businessman</small></h4>
-                                                <p>Lorem ipsum dolor sit amet, conse ctetur adipisi cing elit.</p>
+                                                <h4>Zee Waqar Ahmed</h4>
+                                                <p>Media Coordinator</p>
                                                 <ul class="styled-icons icon-theme-colored icon-circled icon-dark icon-sm mt-15 mb-0">
                                                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -933,48 +912,52 @@
                                 <div class="event media mb-20 no-bg no-border">
                                     <div class="event-date media-left text-center flip bg-theme-colored p-20">
                                         <ul>
-                                            <li class="font-30 text-white font-weight-600 border-bottom pb-10">28</li>
-                                            <li class="font-22 text-white text-uppercase">Feb</li>
+                                            <li class="font-30 text-white font-weight-600 border-bottom pb-10">04</li>
+                                            <li class="font-22 text-white text-uppercase">Every Month</li>
                                         </ul>
                                     </div>
                                     <div class="media-body pl-20">
                                         <div class="event-content pull-left flip">
-                                            <h4 class="event-title media-heading font-raleway font-weight-700"><a href="#">Gear up for giving</a></h4>
-                                            <span class="mb-10 text-gray-darkgray mr-10"><i class="fa fa-clock-o mr-5 text-theme-colored"></i> at 5.00 pm - 7.30 pm</span>
-                                            <span class="text-gray-darkgray"><i class="fa fa-map-marker mr-5"></i> 25 Newyork City</span>
-                                            <p class="mt-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commod</p>
+                                            <h4 class="event-title media-heading font-raleway font-weight-700"><a href="#">Mahana Kifalat</a></h4>
+                                            <span class="mb-10 text-gray-darkgray mr-10"><i class="fa fa-clock-o mr-5 text-theme-colored"></i> at 9.00 pm - 5.00 pm</span>
+                                            <span class="text-gray-darkgray"><i class="fa fa-map-marker mr-5"></i> Nusrat Trust</span>
+                                            <p class="mt-5">Nusrat Trust for Special Children distributes
+                                                 money under the monthly sponsorship program
+                                                 to persons who are disabled due to an accident.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="event media mb-20 no-bg no-border">
                                     <div class="event-date media-left text-center flip bg-theme-colored p-20">
                                         <ul>
-                                            <li class="font-30 text-white font-weight-600 border-bottom pb-10">28</li>
-                                            <li class="font-22 text-white text-uppercase">Feb</li>
+                                            <li class="font-30 text-white font-weight-600 border-bottom pb-10">05</li>
+                                            <li class="font-22 text-white text-uppercase">Every Month</li>
                                         </ul>
                                     </div>
                                     <div class="media-body pl-20">
                                         <div class="event-content pull-left flip">
-                                            <h4 class="event-title media-heading font-raleway font-weight-700"><a href="#">Gear up for giving</a></h4>
-                                            <span class="mb-10 text-gray-darkgray mr-10"><i class="fa fa-clock-o mr-5 text-theme-colored"></i> at 5.00 pm - 7.30 pm</span>
-                                            <span class="text-gray-darkgray"><i class="fa fa-map-marker mr-5"></i> 25 Newyork City</span>
-                                            <p class="mt-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commod</p>
+                                            <h4 class="event-title media-heading font-raleway font-weight-700"><a href="#">Food Help</a></h4>
+                                            <span class="mb-10 text-gray-darkgray mr-10"><i class="fa fa-clock-o mr-5 text-theme-colored"></i> at 9.00 pm - 5.00 pm</span>
+                                            <span class="text-gray-darkgray"><i class="fa fa-map-marker mr-5"></i> Nusrat Trust</span>
+                                            <p class="mt-5">Under Nusrat Trust's food help scheme, disabled children who cannot move 
+                                                from their place, their parents take a Rs.1000 for them.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="event media mb-20 no-bg no-border">
                                     <div class="event-date media-left text-center flip bg-theme-colored p-20">
                                         <ul>
-                                            <li class="font-30 text-white font-weight-600 border-bottom pb-10">28</li>
-                                            <li class="font-22 text-white text-uppercase">Feb</li>
+                                            <li class="font-30 text-white font-weight-600 border-bottom pb-10">7</li>
+                                            <li class="font-22 text-white text-uppercase">Every Month</li>
                                         </ul>
                                     </div>
                                     <div class="media-body pl-20">
                                         <div class="event-content pull-left flip">
-                                            <h4 class="event-title media-heading font-raleway font-weight-700"><a href="#">Gear up for giving</a></h4>
-                                            <span class="mb-10 text-gray-darkgray mr-10"><i class="fa fa-clock-o mr-5 text-theme-colored"></i> at 5.00 pm - 7.30 pm</span>
-                                            <span class="text-gray-darkgray"><i class="fa fa-map-marker mr-5"></i> 25 Newyork City</span>
-                                            <p class="mt-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commod</p>
+                                            <h4 class="event-title media-heading font-raleway font-weight-700"><a href="#">Ration Distribution </a></h4>
+                                            <span class="mb-10 text-gray-darkgray mr-10"><i class="fa fa-clock-o mr-5 text-theme-colored"></i> at 9.00 am - 5.00 pm</span>
+      
+                                            <span class="text-gray-darkgray"><i class="fa fa-map-marker mr-5"></i> Nusrat Trust</span>
+                                            <p>It is given monthly ration to disabled persons who find it difficult to earn a living despite working.</p>
                                         </div>
                                     </div>
                                 </div>

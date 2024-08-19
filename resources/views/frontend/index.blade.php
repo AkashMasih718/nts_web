@@ -8,12 +8,12 @@
                     <div class="col-sm-6 col-md-3">
                         <div class="widget dark">
                             <img class="mb-20" alt src="images/logo-wide-white.png">
-                            <p>Lorem ipsum dolor sit amet, consecte tur adipisi cing elit lestias eius illum libero dolor nobis deleniti.</p>
-                            <p>203, Envato Labs, Behind Alis Steet, Melbourne, Australia.</p>
+                            <p>Nusrat Trust For Special Childen is a nonprofit organization.</p>
+                            <p>Plot No.St-1, Block 2, Clifton Karachi Pakistan</p>
                             <ul class="list-inline mt-5">
-                                <li class="m-0 pl-10 pr-10"> <i class="fa fa-phone text-theme-colored mr-5"></i> <a class="text-gray" href="#">123-456-789</a> </li>
-                                <li class="m-0 pl-10 pr-10"> <i class="fa fa-envelope-o text-theme-colored mr-5"></i> <a class="text-gray" href="#"><span class="__cf_email__" data-cfemail="492a26273d282a3d0930263c3b2d2624282027672a2624">[email&#160;protected]</span></a> </li>
-                                <li class="m-0 pl-10 pr-10"> <i class="fa fa-globe text-theme-colored mr-5"></i> <a class="text-gray" href="#">www.yourdomain.com</a> </li>
+                                <li class="m-0 pl-10 pr-10"> <i class="fa fa-phone text-theme-colored mr-5"></i> <a class="text-gray" href="#">+92 35861641</a> </li>
+                                <li class="m-0 pl-10 pr-10"> <i class="fa fa-envelope-o text-theme-colored mr-5"></i> <a class="text-gray" href="#"><span class="__cf_email__" data-cfemail="492a26273d282a3d0930263c3b2d2624282027672a2624">nusrattrustpk@gmail.com</span></a> </li>
+                                <li class="m-0 pl-10 pr-10"> <i class="fa fa-globe text-theme-colored mr-5"></i> <a class="text-gray" href="#">www.nusrattrust.pk</a> </li>
                             </ul>
                         </div>
                     </div>
@@ -21,18 +21,41 @@
                         <div class="widget dark">
                             <h5 class="widget-title line-bottom">Useful Links</h5>
                             <ul class="list angle-double-right list-border">
-                                <li><a href="#">Body Building</a></li>
-                                <li><a href="#">Fitness Classes</a></li>
-                                <li><a href="#">Weight lifting</a></li>
-                                <li><a href="#">Yoga Courses</a></li>
-                                <li><a href="#">Training</a></li>
+                                <li><a href="#">About Us</a></li>
+                                <li><a href="#">Schemes</a></li>
+                                <li><a href="#">Projects</a></li>
+                                <li><a href="#">Contact Us</a></li>
+                                <li><a href="#">Donation</a></li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-sm-6 col-md-3">
                         <div class="widget dark">
                             <h5 class="widget-title line-bottom">Twitter Feed</h5>
-                            <div class="twitter-feed list-border clearfix" data-username="Envato" data-count="2"></div>
+                            <div class="latest-posts">
+                                <article class="post media-post clearfix pb-0 mb-10">
+                                    <a href="#" class="post-thumb"><img alt src="https://www.instagram.com/nusrattrust/reel/C-XOqsto8Hi/"></a>
+                                    <div class="post-right">
+                                        <h5 class="post-title mt-0 mb-5"><a href="#">Sustainable Construction</a></h5>
+                                        <p class="post-date mb-0 font-12">Mar 08, 2015</p>
+                                    </div>
+                                </article>
+                                <article class="post media-post clearfix pb-0 mb-10">
+                                    <a href="#" class="post-thumb"><img alt src="http://placehold.it/80x55"></a>
+                                    <div class="post-right">
+                                        <h5 class="post-title mt-0 mb-5"><a href="#">Industrial Coatings</a></h5>
+                                        <p class="post-date mb-0 font-12">Mar 08, 2015</p>
+                                    </div>
+                                </article>
+                                <article class="post media-post clearfix pb-0 mb-10">
+                                    <a href="#" class="post-thumb"><img alt src="http://placehold.it/80x55"></a>
+                                    <div class="post-right">
+                                        <h5 class="post-title mt-0 mb-5"><a href="#">Storefront Installations</a></h5>
+                                        <p class="post-date mb-0 font-12">Mar 08, 2015</p>
+                                    </div>
+                                </article>
+                            </div>
+                            
                         </div>
                     </div>
                     <div class="col-sm-6 col-md-3">
@@ -40,7 +63,7 @@
                             <h5 class="widget-title line-bottom">Latest News</h5>
                             <div class="latest-posts">
                                 <article class="post media-post clearfix pb-0 mb-10">
-                                    <a href="#" class="post-thumb"><img alt src="http://placehold.it/80x55"></a>
+                                    <a href="#" class="post-thumb"><img alt src="https://www.instagram.com/nusrattrust/reel/C-XOqsto8Hi/"></a>
                                     <div class="post-right">
                                         <h5 class="post-title mt-0 mb-5"><a href="#">Sustainable Construction</a></h5>
                                         <p class="post-date mb-0 font-12">Mar 08, 2015</p>
@@ -106,8 +129,8 @@
                         <div class="widget dark">
                             <h5 class="widget-title mb-10">Call Us Now</h5>
                             <div class="text-gray">
-                                +61 3 1234 5678 <br>
-                                +12 3 1234 5678
+                                +92 21 35861642 <br>
+                                +92 332 3331011
                             </div>
                         </div>
                     </div>

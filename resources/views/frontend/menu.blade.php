@@ -15,9 +15,9 @@
                         <div class="col-md-8">
                             <div class="widget no-border m-0">
                                 <ul class="list-inline pull-right flip sm-pull-none sm-text-center mt-5">
-                                    <li class="m-0 pl-10 pr-10"> <i class="fa fa-phone text-white"></i> <a class="text-white" href="#">123-456-789</a> </li>
-                                    <li class="text-white m-0 pl-10 pr-10"> <i class="fa fa-clock-o text-white"></i> Mon-Fri 8:00 to 2:00 </li>
-                                    <li class="m-0 pl-10 pr-10"> <i class="fa fa-envelope-o text-white"></i> <a class="text-white" href="#"><span class="__cf_email__" data-cfemail="dab9b5b4aebbb9ae9aa3b5afa8beb5b7bbb3b4f4b9b5b7">[email&#160;protected]</span></a> </li>
+                                    <li class="m-0 pl-10 pr-10"> <i class="fa fa-phone text-white"></i> <a class="text-white" href="#">+92 21 35861642</a> </li>
+                                    <li class="text-white m-0 pl-10 pr-10"> <i class="fa fa-clock-o text-white"></i> Mon-Sunday 9:00 to 9:00 </li>
+                                    <li class="m-0 pl-10 pr-10"> <i class="fa fa-envelope-o text-white"></i> <a class="text-white" href="#"><span class="__cf_email__" data-cfemail="dab9b5b4aebbb9ae9aa3b5afa8beb5b7bbb3b4f4b9b5b7">[nusrattrustpk@gmail.com]</span></a> </li>
                                 </ul>
                             </div>
                         </div>
