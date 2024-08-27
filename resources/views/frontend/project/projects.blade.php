@@ -22,7 +22,7 @@
             <div class="section-content">
                 <div class="row">
                     <div class="col-xs-6 col-sm-6 col-md-6 mb-40">
-                        <a class="image-popup-vertical-fit" title="Title Here 1" href="images/horses/1.jpg"><img src="images/horses/1.jpg" alt></a>
+                        <a class="image-popup-vertical-fit" title="Title Here 1" href="images/horses/12.jpg"><img src="images/horses/12.jpg" alt></a>
                         <h3>Solar Project</h3>
                         <ul class="list theme-colored">
                             <li><strong>Location</strong> : Pakistan</li>
@@ -53,7 +53,7 @@
                             <li><strong class="text-theme-colored"> Budget : $2300</strong></li>
                         </ul>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum quos quae, provident aspernatur et voluptatibus saepe recusandae accusamus sit non, numquam pariatur odit veniam aut.</p>
-                        <a href="page-running-projects-details.html" class="btn btn-sm btn-theme-colored">Read more</a>
+                        <a href="{{url('shops_project')}}" class="btn btn-sm btn-theme-colored">Read more</a>
                     </div>
                     <div class="col-xs-6 col-sm-6 col-md-6 mb-40">
                         <a class="image-popup-vertical-fit" title="Title Here 1" href="images/horses/4.jpg"><img src="images/horses/4.jpg" alt></a>
