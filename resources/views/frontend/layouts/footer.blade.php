@@ -3,7 +3,7 @@
                 <div class="row border-bottom-black">
                     <div class="col-sm-6 col-md-3">
                         <div class="widget dark">
-                            <img class="mb-20" alt src="images/logo-wide-white.png">
+                            <img class="mb-20" alt src="{{ asset('images/logo-wide-white.png')}}">
                             <p>Nusrat Trust For Special Childen is a nonprofit organization.</p>
                             <p>Plot No.St-1, Block 2, Clifton Karachi Pakistan</p>
                             <ul class="list-inline mt-5">
@@ -27,27 +27,34 @@
                     </div>
                     <div class="col-sm-6 col-md-3">
                         <div class="widget dark">
-                            <h5 class="widget-title line-bottom">Twitter Feed</h5>
+                            <h5 class="widget-title line-bottom">Instagram</h5>
                             <div class="latest-posts">
                                 <article class="post media-post clearfix pb-0 mb-10">
-                                    <a href="#" class="post-thumb"><img alt src="http://placehold.it/80x55"></a>
+                                    <a href="https://www.facebook.com/nusrattrust/videos/395922509829373/" class="post-thumb"><img alt src="https://www.facebook.com/nusrattrust/videos/395922509829373/"></a>
                                     <div class="post-right">
-                                        <h5 class="post-title mt-0 mb-5"><a href="#">Sustainable Construction</a></h5>
-                                        <p class="post-date mb-0 font-12">Mar 08, 2015</p>
+                                        <h5 class="post-title mt-0 mb-5"><a href="#">Solar System Project</a></h5>
+                                        <p class="post-date mb-0 font-12">August 20, 2024</p>
                                     </div>
                                 </article>
                                 <article class="post media-post clearfix pb-0 mb-10">
-                                    <a href="#" class="post-thumb"><img alt src="http://placehold.it/80x55"></a>
+                                    <a href="https://www.facebook.com/reel/478224058476426" class="post-thumb"><img alt src="https://www.facebook.com/reel/478224058476426"></a>
                                     <div class="post-right">
-                                        <h5 class="post-title mt-0 mb-5"><a href="#">Industrial Coatings</a></h5>
-                                        <p class="post-date mb-0 font-12">Mar 08, 2015</p>
+                                        <h5 class="post-title mt-0 mb-5"><a href="#">Happy Independence day</a></h5>
+                                        <p class="post-date mb-0 font-12">August 14, 2024</p>
                                     </div>
                                 </article>
                                 <article class="post media-post clearfix pb-0 mb-10">
-                                    <a href="#" class="post-thumb"><img alt src="http://placehold.it/80x55"></a>
+                                    <a href="https://www.facebook.com/nusrattrust/videos/478861681438603/" class="post-thumb"><img alt src="https://www.facebook.com/nusrattrust/videos/478861681438603/"></a>
                                     <div class="post-right">
-                                        <h5 class="post-title mt-0 mb-5"><a href="#">Storefront Installations</a></h5>
-                                        <p class="post-date mb-0 font-12">Mar 08, 2015</p>
+                                        <h5 class="post-title mt-0 mb-5"><a href="#">Family Kifalat Programe</a></h5>
+                                        <p class="post-date mb-0 font-12">August 04, 2024</p>
+                                    </div>
+                                </article>
+                                <article class="post media-post clearfix pb-0 mb-10">
+                                    <a href="https://www.facebook.com/nusrattrust/videos/1414797092543905/" class="post-thumb"><img alt src="https://www.facebook.com/nusrattrust/videos/1414797092543905/"></a>
+                                    <div class="post-right">
+                                        <h5 class="post-title mt-0 mb-5"><a href="#">Monthly Sponsership</a></h5>
+                                        <p class="post-date mb-0 font-12">August 04, 2024</p>
                                     </div>
                                 </article>
                             </div>
@@ -56,30 +63,38 @@
                     </div>
                     <div class="col-sm-6 col-md-3">
                         <div class="widget dark">
-                            <h5 class="widget-title line-bottom">Latest News</h5>
+                            <h5 class="widget-title line-bottom">Facebook</h5>
                             <div class="latest-posts">
                                 <article class="post media-post clearfix pb-0 mb-10">
-                                    <a href="#" class="post-thumb"><img alt src="https://www.instagram.com/nusrattrust/reel/C-XOqsto8Hi/"></a>
+                                    <a href="https://www.facebook.com/nusrattrust/videos/395922509829373/" class="post-thumb"><img alt src="https://www.facebook.com/nusrattrust/videos/395922509829373/"></a>
                                     <div class="post-right">
-                                        <h5 class="post-title mt-0 mb-5"><a href="#">Sustainable Construction</a></h5>
-                                        <p class="post-date mb-0 font-12">Mar 08, 2015</p>
+                                        <h5 class="post-title mt-0 mb-5"><a href="#">Solar System Project</a></h5>
+                                        <p class="post-date mb-0 font-12">August 20, 2024</p>
                                     </div>
                                 </article>
                                 <article class="post media-post clearfix pb-0 mb-10">
-                                    <a href="#" class="post-thumb"><img alt src="http://placehold.it/80x55"></a>
+                                    <a href="https://www.facebook.com/reel/478224058476426" class="post-thumb"><img alt src="https://www.facebook.com/reel/478224058476426"></a>
                                     <div class="post-right">
-                                        <h5 class="post-title mt-0 mb-5"><a href="#">Industrial Coatings</a></h5>
-                                        <p class="post-date mb-0 font-12">Mar 08, 2015</p>
+                                        <h5 class="post-title mt-0 mb-5"><a href="#">Happy Independence day</a></h5>
+                                        <p class="post-date mb-0 font-12">August 14, 2024</p>
                                     </div>
                                 </article>
                                 <article class="post media-post clearfix pb-0 mb-10">
-                                    <a href="#" class="post-thumb"><img alt src="http://placehold.it/80x55"></a>
+                                    <a href="https://www.facebook.com/nusrattrust/videos/478861681438603/" class="post-thumb"><img alt src="https://www.facebook.com/nusrattrust/videos/478861681438603/"></a>
                                     <div class="post-right">
-                                        <h5 class="post-title mt-0 mb-5"><a href="#">Storefront Installations</a></h5>
-                                        <p class="post-date mb-0 font-12">Mar 08, 2015</p>
+                                        <h5 class="post-title mt-0 mb-5"><a href="#">Family Kifalat Programe</a></h5>
+                                        <p class="post-date mb-0 font-12">August 04, 2024</p>
+                                    </div>
+                                </article>
+                                <article class="post media-post clearfix pb-0 mb-10">
+                                    <a href="https://www.facebook.com/nusrattrust/videos/1414797092543905/" class="post-thumb"><img alt src="https://www.facebook.com/nusrattrust/videos/1414797092543905/"></a>
+                                    <div class="post-right">
+                                        <h5 class="post-title mt-0 mb-5"><a href="#">Monthly Sponsership</a></h5>
+                                        <p class="post-date mb-0 font-12">August 04, 2024</p>
                                     </div>
                                 </article>
                             </div>
+                            
                         </div>
                     </div>
                 </div>
@@ -182,9 +197,6 @@
 
     <script src="{{ asset('js/custom.js') }}"></script>
 </body>
-
-<!-- Mirrored from html.kodesolution.com/2016/echarity-html/demo/index-home-variation-bg-image-parallax.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 23 Jul 2024 10:12:33 GMT -->
-
 </html>
 <!-- Mirrored from html.kodesolution.com/2016/echarity-html/demo/index-home-variation-maximageslider-style2.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 23 Jul 2024 10:12:30 GMT -->
 

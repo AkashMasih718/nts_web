@@ -267,7 +267,7 @@
 </section>
 
 
-<section class="divider parallax" data-bg-img="images/bg/bg2.jpg" data-parallax-ratio="0.7">
+<section class="divider parallax" data-bg-img="{{ asset('images/bg/bg2.jpg')}}" data-parallax-ratio="0.7">
     <div class="container pt-0 pb-0">
         <div class="row">
             <div class="col-md-8">
@@ -872,4 +872,4 @@
 </section>
 </div>
 
-@endsectionph
+@endsection
