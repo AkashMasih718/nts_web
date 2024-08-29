@@ -64,7 +64,7 @@
                             <li><strong class="text-theme-colored"> Budget : $3000</strong></li>
                         </ul>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum quos quae, provident aspernatur et voluptatibus saepe recusandae accusamus sit non, numquam pariatur odit veniam aut.</p>
-                        <a href="page-running-projects-details.html" class="btn btn-sm btn-theme-colored">Read more</a>
+                        <a href="{{url('ration_project')}}" class="btn btn-sm btn-theme-colored">Read more</a>
                     </div>
                   
                 </div>

@@ -19,5 +19,8 @@ class ProjectsController extends Controller
     public function shop(){
         return view('frontend.project.shops_project');
     }
+    public function ration(){
+        return view('frontend.project.ration_project');
+    }
 
 }
