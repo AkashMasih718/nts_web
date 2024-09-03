@@ -12,4 +12,13 @@ class HomeController extends Controller
     public function complex(){
         return view('frontend.about_complex');
     }
+    public function contact(){
+        return view('frontend.contact_us');
+    }
+    public function test_view(){
+        return view('frontend.mail.contact_mail');
+    }
+    public function about(){
+        return view('frontend.about_us');
+    }
 }

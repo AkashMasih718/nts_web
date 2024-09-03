@@ -12,7 +12,7 @@ class ProjectsController extends Controller
     public function solor(){
         return view('frontend.project.soler_project');
     }
-   
+
     public function rozgar(){
         return view('frontend.project.rozgar_project');
     }
@@ -22,5 +22,6 @@ class ProjectsController extends Controller
     public function ration(){
         return view('frontend.project.ration_project');
     }
+
 
 }

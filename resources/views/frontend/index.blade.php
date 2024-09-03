@@ -21,7 +21,7 @@
                     <div class="col-md-12 text-center">
                         <h1 class="text-white text-uppercase font-60"> <span class="text-theme-colored"></span></h1>
                         <h4 class="text-white font-weight-400"> <br> </h4>
-                        
+
                     </div>
                 </div>
             </div>
@@ -60,7 +60,7 @@
                                 <div class="thumb"> <a href="#"><img class="img-fullwidth mb-20" src="images/services/bg-3.jpg" alt="..."></a> </div>
                                 <div class="caption">
                                     <h4 class="text-uppercase letter-space-1 mt-0">Pan<span class="text-theme-colored"> Shop</span></h4>
-                                    <p>Nusrat Trust for Special Children makes shops for disabled 
+                                    <p>Nusrat Trust for Special Children makes shops for disabled
                                         people who can work while sitting.
                                          </p>
                                     <p><a href="#" class="btn btn-theme-colored btn-flat mt-10 btn-sm" role="button">Read More</a></p>
@@ -516,12 +516,7 @@
                                 <div class="info p-20 p-sm-10 ">
                                     <h4>Mufti Muhammad Mohiuddin </h4>
                                     <p>Founder & Chairman</p>
-                                    <ul class="styled-icons icon-theme-colored icon-circled icon-dark icon-sm mt-15 mb-0">
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                    </ul>
+
                                 </div>
                             </div>
                         </div>
@@ -531,12 +526,7 @@
                                 <div class="info p-20 p-sm-10 ">
                                     <h4>Abu Katada Mohiuddin</h4>
                                     <p>General Secretary</p>
-                                    <ul class="styled-icons icon-theme-colored icon-circled icon-dark icon-sm mt-15 mb-0">
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                    </ul>
+
                                 </div>
                             </div>
                         </div>
@@ -546,28 +536,18 @@
                                 <div class="info p-20 p-sm-10 ">
                                     <h4>Abu Talha Mohiuddin</h4>
                                     <p>Finance Secretary</p>
-                                    <ul class="styled-icons icon-theme-colored icon-circled icon-dark icon-sm mt-15 mb-0">
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                    </ul>
+
                                 </div>
                             </div>
                         </div>
-                      
+
                         <div class="item bg-lighter">
                             <div class="team-member maxwidth400">
                                 <div class="thumb"><img alt src="images/team/2.jpg" class="img-fullwidth"></div>
                                 <div class="info p-20 p-sm-10 ">
                                     <h4>Zee Waqar Ahmed</h4>
                                     <p>Media Coordinator</p>
-                                    <ul class="styled-icons icon-theme-colored icon-circled icon-dark icon-sm mt-15 mb-0">
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                    </ul>
+
                                 </div>
                             </div>
                         </div>
@@ -584,7 +564,7 @@
             <div class="row">
                 <div class="col-md-7">
                     <h2 class="line-height-1 mt-0 mb-0 pb-20 text-white">Nusrat Trust<span class="text-theme-colored"> Rozgar Scheme</span></h2>
-                    <p class="mb-30 text-white"> 
+                    <p class="mb-30 text-white">
                     Hundreds of such families are waiting for your help, come support Nusrat Trust in this charity.
                      Nusrat Trust is working day and night to support people by going door to door.</p>
                     <a class="btn btn-dark btn-theme-colored btn-lg btn-flat pull-left pl-30 pr-30" href="#">Join Us</a>
@@ -635,7 +615,7 @@
                                 <h4 class="event-title media-heading font-raleway font-weight-700"><a href="#">Food Help</a></h4>
                                 <span class="mb-10 text-gray-darkgray mr-10"><i class="fa fa-clock-o mr-5 text-theme-colored"></i> at 9.00 pm - 5.00 pm</span>
                                 <span class="text-gray-darkgray"><i class="fa fa-map-marker mr-5"></i> Nusrat Trust</span>
-                                <p class="mt-5">Under Nusrat Trust's food help scheme, disabled children who cannot move 
+                                <p class="mt-5">Under Nusrat Trust's food help scheme, disabled children who cannot move
                                     from their place, their parents take a Rs.1000 for them.</p>
                             </div>
                         </div>
@@ -863,9 +843,9 @@
         <div class="row">
             <div class="col-md-12">
 
-                
+
                    <h2 style="COLOR:WHITE;text-align:center; ">NUSRAT TRUST FOR SPECIAL CHILDREN</h2>
-                
+
             </div>
         </div>
     </div>
