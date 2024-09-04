@@ -58,43 +58,13 @@
                                     </div>
                                 </article>
                             </div>
-                            
+
                         </div>
                     </div>
                     <div class="col-sm-6 col-md-3">
-                        <div class="widget dark">
-                            <h5 class="widget-title line-bottom">Facebook</h5>
-                            <div class="latest-posts">
-                                <article class="post media-post clearfix pb-0 mb-10">
-                                    <a href="https://www.facebook.com/nusrattrust/videos/395922509829373/" class="post-thumb"><img alt src="https://www.facebook.com/nusrattrust/videos/395922509829373/"></a>
-                                    <div class="post-right">
-                                        <h5 class="post-title mt-0 mb-5"><a href="#">Solar System Project</a></h5>
-                                        <p class="post-date mb-0 font-12">August 20, 2024</p>
-                                    </div>
-                                </article>
-                                <article class="post media-post clearfix pb-0 mb-10">
-                                    <a href="https://www.facebook.com/reel/478224058476426" class="post-thumb"><img alt src="https://www.facebook.com/reel/478224058476426"></a>
-                                    <div class="post-right">
-                                        <h5 class="post-title mt-0 mb-5"><a href="#">Happy Independence day</a></h5>
-                                        <p class="post-date mb-0 font-12">August 14, 2024</p>
-                                    </div>
-                                </article>
-                                <article class="post media-post clearfix pb-0 mb-10">
-                                    <a href="https://www.facebook.com/nusrattrust/videos/478861681438603/" class="post-thumb"><img alt src="https://www.facebook.com/nusrattrust/videos/478861681438603/"></a>
-                                    <div class="post-right">
-                                        <h5 class="post-title mt-0 mb-5"><a href="#">Family Kifalat Programe</a></h5>
-                                        <p class="post-date mb-0 font-12">August 04, 2024</p>
-                                    </div>
-                                </article>
-                                <article class="post media-post clearfix pb-0 mb-10">
-                                    <a href="https://www.facebook.com/nusrattrust/videos/1414797092543905/" class="post-thumb"><img alt src="https://www.facebook.com/nusrattrust/videos/1414797092543905/"></a>
-                                    <div class="post-right">
-                                        <h5 class="post-title mt-0 mb-5"><a href="#">Monthly Sponsership</a></h5>
-                                        <p class="post-date mb-0 font-12">August 04, 2024</p>
-                                    </div>
-                                </article>
-                            </div>
-                            
+                        <div style="border: 1px solid white;" class="widget dark">
+                            <img src="images/horses/Logo Whit.png" alt="">
+
                         </div>
                     </div>
                 </div>
@@ -112,27 +82,7 @@
                                 </div>
                             </form>
 
-                            <script data-cfasync="false" src="../../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-                            <script type="text/javascript">
-                                $('#mailchimp-subscription-form-footer').ajaxChimp({
-                                    callback: mailChimpCallBack,
-                                    url: '//thememascot.us9.list-manage.com/subscribe/post?u=a01f440178e35febc8cf4e51f&amp;id=49d6d30e1e'
-                                });
 
-                                function mailChimpCallBack(resp) {
-                                    // Hide any previous response text
-                                    var $mailchimpform = $('#mailchimp-subscription-form-footer'),
-                                        $response = '';
-                                    $mailchimpform.children(".alert").remove();
-                                    console.log(resp);
-                                    if (resp.result === 'success') {
-                                        $response = '<div class="alert alert-success"><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>' + resp.msg + '</div>';
-                                    } else if (resp.result === 'error') {
-                                        $response = '<div class="alert alert-danger"><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>' + resp.msg + '</div>';
-                                    }
-                                    $mailchimpform.prepend($response);
-                                }
-                            </script>
 
                         </div>
                     </div>
@@ -164,7 +114,7 @@
                 <div class="container pt-20 pb-20">
                     <div class="row">
                         <div class="col-md-6">
-                            <p class="font-11 text-black-777 m-0">Copyright &copy;2015 ThemeMascot. All Rights Reserved</p>
+                            <p class="font-11 text-black-777 m-0">Copyright &copy;2024 Nusrat Trust. All Rights Reserved. | Develope and Desgin by Akash Masih</p>
                         </div>
                         <div class="col-md-6 text-right">
                             <div class="widget no-border m-0">

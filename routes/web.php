@@ -26,3 +26,4 @@ Route::get('ration_project',[ProjectsController::class, 'ration']);
 
 
 Route::get('Schemes',[SchemeController::class, 'schemes']);
+Route::get('food-help',[SchemeController::class, 'food']);

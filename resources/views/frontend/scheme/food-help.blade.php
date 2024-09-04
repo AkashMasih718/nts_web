@@ -10,7 +10,7 @@
             <div class="section-content pt-100">
                 <div class="row">
                     <div class="col-md-12">
-                        <h3 class="title text-white">Running Project Details</h3>
+                        <h3 class="title text-white">Food Help Scheme Details</h3>
                     </div>
                 </div>
             </div>
@@ -25,9 +25,9 @@
                         <a class="image-popup-vertical-fit" title="Title Here 1" href="images/horses/1.jpg"><img src="images/horses/1.jpg" alt></a>
                     </div>
                     <div class="col-xs-6 col-sm-6 col-md-6 mb-40">
-                        <h3>Rozgar Project</h3>
+                        <h3>Food Help</h3>
                         <ul class="list theme-colored">
-                            <li><strong>Location</strong> : Karachi Pakistan</li>
+
                             <br>
                             <li><strong>Nusrat Trust For Special Children</strong></li>
                             <br>
@@ -35,37 +35,7 @@
                         </ul>
                         <p>Nusrat Trust provides auto rickshaw for employment to disabled persons who support
                              their children through employment and do not know any skill.</p>
-                             <a style="background: #050387; color:white" class="btn btn btn-flat   p-5 font-11 pl-10 pr-10" href="#promoModal1" data-lightbox="inline">Donate Now</a>
-                             {{-- For Donation Pop up --}}
-                             <div id="promoModal1" class="modal-promo-box mfp-hide" data-bg-img="images/bg/bg12.jpg">
-                                <div class="col-md-12">
-                                 <h2 style="background-color: rgb(255, 255, 255); text-align: center; color:rgb(0, 0, 0); margin-top: -60px;">Online Bank Account Details</h2>
-                                 <div class="row">
-                                     <div  style="background-color: rgb(11, 3, 121); color:white;" class="col-md-6 m-0">
-                                         <h2 style="text-align: center;background-color: rgb(255, 255, 255); color:rgb(0, 0, 0)">BML BANK</h2>
-                                         <h4>A/C Title: Nusrat Trust For Special Child </h4>
-                                         <h4>A/C No: 01025020311714103322</h4>
-                                         <h4>IBAN No: PK96SUMB0250027140103322</h4>
-                                         <h4>Bank Mukramah Ltd DHA Phase IV Karachi</h4>
-
-                                     </div>
-                                     <div style="background-color: rgb(11, 3, 121); color:white;" class="col-md-6">
-                                         <h2 style="text-align: center;background-color: rgb(255, 255, 255); color:rgb(0, 0, 0)">UBL BANK</h2>
-                                         <h4>A/C Title: Nusrat Trust For Special Child </h4>
-                                         <h4>A/C No: 0112-0891-0101241-7</h4>
-                                         <h4>IBAN No: PK23UNIL0112089101012417</h4>
-                                         <h4>UBL Ameen M-A Jinnah Road Branch, Karachi</h4>
-                                     </div>
-                                 </div>
-                                </div>
-                                <div class="col-md-12">
-                                 <h3 style="background-color: white; color:black; text-align: center;">Jazz Cash/EasyPaisa/Konnect: 0300 33310 11</h3>
-                                </div>
-                                 <a href="#" class="button text-white"
-                                     onClick="$.magnificPopup.close(); return false;">Don't Show me Again</a>
-                             </div>
-
-                             <div class="modal-on-load" data-target="#promoModal1"></div>
+                        <a style="background: #050387; color:white" class="btn btn btn-flat   p-5 font-11 pl-10 pr-10 ajaxload-popup" href="ajax-load/donation-form.html">Donate Now</a>
                     </div>
                 </div>
                 <div class="row">
